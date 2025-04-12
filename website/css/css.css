@@ -1,0 +1,20 @@
+header, nav, nav>a, aside, article, footer{float: left;border: green thin solid;box-sizing: border-box;
+}
+header{width: 100%;height:100px;
+}
+nav{
+    width: 100%; height:20px; 
+}
+nav>a{
+    width: 16.66667%; float: left; text-align: center; text-decoration: none;
+}
+.body{
+    width: 100%; 
+}
+.body aside{width: 15%;  min-height: 300px; 
+}
+.body article{
+    width: 70%; min-height: 300px; 
+}
+footer{width: 100%; height: 100px;
+}
